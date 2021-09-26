@@ -1,0 +1,3 @@
+/home/wandsman/Repositories/c++/games/sea_battle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wandsman/Repositories/c++/games/sea_battle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wandsman/Repositories/c++/games/sea_battle/cmake-build-debug/CMakeFiles/sea_battle.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/sea_battle.dir/main.cpp.o -o sea_battle 
