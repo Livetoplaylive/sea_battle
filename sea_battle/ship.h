@@ -1,10 +1,6 @@
-//
-// Created by wandsman on 25.09.2021.
-//
 
 #ifndef SEA_BATTLE_SHIP_H
 #define SEA_BATTLE_SHIP_H
-
 
 class ship {
 public:
